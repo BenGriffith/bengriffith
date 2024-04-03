@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+I'm Ben. I like to write and read code. Please feel free to connect with me on [LinkedIn](https://linkedin.com/in/bp-griffith).
+
+## Projects I'm currently working on ...
+- [Tollway Traffic Streaming Data Generator](https://github.com/bengriffith/tollway-traffic)
+- [Tollway Traffic Event Processing via Google Cloud](https://github.com/bengriffith/tollway-traffic-cloud-functions)
 
 <!--
 **BenGriffith/bengriffith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
