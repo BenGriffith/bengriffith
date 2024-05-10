@@ -2,7 +2,7 @@
 I'm Ben. I like to write and read code. Please feel free to connect with me on [LinkedIn](https://linkedin.com/in/bp-griffith).
 
 ## I'm currently working on ...
-- [TSA](https://github.com/bengriffith/tsa)
+- [TSA Throughput](https://github.com/bengriffith/tsa)
 
 ## Recently completed projects ...
 - [Tollway Traffic Streaming Data Generator](https://github.com/bengriffith/tollway-traffic)
