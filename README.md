@@ -2,8 +2,11 @@
 I'm Ben. I like to write and read code. Please feel free to connect with me on [LinkedIn](https://linkedin.com/in/bp-griffith).
 
 ## I'm currently working on ...
+- [TSA](https://github.com/bengriffith/tsa)
+
+## Recently completed projects ...
 - [Tollway Traffic Streaming Data Generator](https://github.com/bengriffith/tollway-traffic)
-- [Tollway Traffic Event Processing via Google Cloud](https://github.com/bengriffith/tollway-traffic-cloud-functions)
+- [Tollway Traffic Event Processing via Google Cloud](https://github.com/bengriffith/tollway-traffic-event-processing)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bengriffith/bengriffith/output/github-contribution-grid-snake-dark.svg">
