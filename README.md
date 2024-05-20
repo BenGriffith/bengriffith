@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Ben. I like to write and read code. Please feel free to connect with me on [LinkedIn](https://linkedin.com/in/bp-griffith).
+I'm Ben, a data engineering enthusiast who enjoys coding and solving the unique puzzles data engineering presents. I'm always looking to connect with like-minded professionals. Please feel free to connect with me on [LinkedIn](https://linkedin.com/in/bp-griffith).
 
 ## I'm currently working on ...
 - [TSA Throughput](https://github.com/bengriffith/tsa)
@@ -10,6 +10,10 @@ I'm Ben. I like to write and read code. Please feel free to connect with me on [
 
 ## Past Projects ...
 - [Cryptocurrency Pipeline](https://github.com/BenGriffith/cryptocurrency)
+- [Command Line Single-player game of Texas Hold'Em Poker](https://github.com/BenGriffith/poker)
+- [Yourbooks CLI](https://github.com/BenGriffith/book-api-cli)
+- [Command Line Single-player game of Blackjack](https://github.com/BenGriffith/blackjack)
+- [Yourbooks](https://github.com/BenGriffith/book-api)
 
 
 <picture>
