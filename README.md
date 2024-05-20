@@ -5,8 +5,8 @@ I'm Ben, a data engineering enthusiast who enjoys coding and solving the unique 
 - [TSA Throughput](https://github.com/bengriffith/tsa)
 
 ## Recently completed projects ...
-- [Tollway Traffic Streaming Data Generator](https://github.com/bengriffith/tollway-traffic)
 - [Tollway Traffic Event Processing via Google Cloud](https://github.com/bengriffith/tollway-traffic-event-processing)
+- [Tollway Traffic Streaming Data Generator](https://github.com/bengriffith/tollway-traffic)
 
 ## Past Projects ...
 - [Cryptocurrency Pipeline](https://github.com/BenGriffith/cryptocurrency)
