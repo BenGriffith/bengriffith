@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Ben, a data engineer with Device42. I enjoy coding and solving the unique puzzles data engineering presents. I'm always looking to connect with like-minded professionals. Please feel free to connect with me on [LinkedIn](https://linkedin.com/in/bp-griffith).
+I'm Ben, a data engineer with Freshworks. I enjoy coding and solving the unique puzzles data engineering presents. I'm always looking to connect with like-minded professionals. Please feel free to connect with me on [LinkedIn](https://linkedin.com/in/bp-griffith).
 
 ## Recently completed projects ...
 - [TSA Throughput](https://github.com/bengriffith/tsa)
