@@ -1,12 +1,13 @@
 ## Hi there 👋
-I'm Ben, a data engineer with Freshworks. I enjoy coding and solving the unique puzzles data engineering presents. I'm always looking to connect with like-minded professionals. Please feel free to connect with me on [LinkedIn](https://linkedin.com/in/bp-griffith).
+I'm Ben, a data engineer with [Freshworks](https;//freshworks.com). I enjoy coding and solving the unique puzzles data engineering presents. I'm always looking to connect with like-minded professionals. Please feel free to connect with me on [LinkedIn](https://linkedin.com/in/bp-griffith).
 
-## Recently completed projects ...
+## I'm currently working on ...
+- [SpaceX Launch Tracker](https://github.com/bengriffith/spacex)
+
+## Past Projects ...
 - [TSA Throughput](https://github.com/bengriffith/tsa)
 - [Tollway Traffic Event Processing via Google Cloud](https://github.com/bengriffith/tollway-traffic-event-processing)
 - [Tollway Traffic Streaming Data Generator](https://github.com/bengriffith/tollway-traffic)
-
-## Past Projects ...
 - [Cryptocurrency Pipeline](https://github.com/BenGriffith/cryptocurrency)
 - [Command Line Single-player game of Texas Hold'Em Poker](https://github.com/BenGriffith/poker)
 - [Yourbooks CLI](https://github.com/BenGriffith/book-api-cli)
