@@ -2,7 +2,6 @@
 I'm Ben, a data engineer with [Freshworks](https;//freshworks.com). I enjoy coding and solving the unique puzzles data engineering presents. I'm always looking to connect with like-minded professionals. Please feel free to connect with me on [LinkedIn](https://linkedin.com/in/bp-griffith).
 
 ## I'm currently working on ...
-- [SpaceX Launch Tracker](https://github.com/bengriffith/spacex)
 
 ## Past Projects ...
 - [TSA Throughput](https://github.com/bengriffith/tsa)
