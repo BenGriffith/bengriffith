@@ -2,8 +2,10 @@
 I'm Ben, a data engineer with [Freshworks](https;//freshworks.com). I enjoy coding and solving the unique puzzles data engineering presents. I'm always looking to connect with like-minded professionals. Please feel free to connect with me on [LinkedIn](https://linkedin.com/in/bp-griffith).
 
 ## I'm currently working on ...
+- [Blackjack](https://github.com/bengriffith/blackjack-rust)
 
 ## Past Projects ...
+- [Rust JSON Parser](https://github.com/bengriffith/rust-cohort)
 - [TSA Throughput](https://github.com/bengriffith/tsa)
 - [Tollway Traffic Event Processing via Google Cloud](https://github.com/bengriffith/tollway-traffic-event-processing)
 - [Tollway Traffic Streaming Data Generator](https://github.com/bengriffith/tollway-traffic)
