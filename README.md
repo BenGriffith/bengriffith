@@ -13,13 +13,6 @@ I'm Ben, a data engineer with [Freshworks](https;//freshworks.com). I enjoy codi
 - [Command Line Single-player game of Blackjack](https://github.com/BenGriffith/blackjack)
 - [Yourbooks](https://github.com/BenGriffith/book-api)
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bengriffith/bengriffith/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bengriffith/bengriffith/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bengriffith/bengriffith/output/github-contribution-grid-snake.svg">
-</picture>
-
 <!--
 **BenGriffith/bengriffith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
